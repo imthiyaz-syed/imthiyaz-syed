@@ -300,7 +300,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imthiyaz-syed)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=globe&logoColor=white)]((https://portfolio-delta-lemon-93.vercel.app/#projects))
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=globe&logoColor=white)]((https://portfolio-delta-lemon-93.vercel.app))
 
 </div>
 
