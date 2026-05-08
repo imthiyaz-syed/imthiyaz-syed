@@ -91,18 +91,36 @@
 
 ---
 
-## 🥈 Student Performance Prediction System
-### Machine Learning model for academic analytics
+---
 
-- 🔧 **Tech Stack:** Python, Scikit-Learn, Pandas, NumPy
+## 🛡️ ProctoGuard
+### AI-based online exam proctoring and monitoring system
+
+- ❓ **Problem Solved:** Online exams lack reliable real-time monitoring and malpractice detection
+- 🔧 **Tech Stack:** Python, YOLOv8, OpenCV, FastAPI, MySQL
 - 📊 **Features:**
-  - Performance prediction
-  - Risk identification
-  - Trend analysis
-  - Data visualization
+  - Real-time object and face detection
+  - Suspicious activity monitoring
+  - Multi-person detection alerts
+  - Mobile phone detection
+  - Automated malpractice logging
+  - Live video frame processing (~20 FPS)
+  - REST API integration for monitoring events
 - 🎯 **Impact:**
-  - Helps identify students needing academic support
-  - Enables data-driven educational insights
+  - Improves integrity of online examinations
+  - Enables scalable AI-based remote invigilation
+  - Reduces manual monitoring effort significantly
+
+### 🧠 Key AI/ML Concepts Used
+
+- Computer Vision
+- Object Detection
+- Real-Time Video Processing
+- Deep Learning Inference
+- Event-based Alert Systems
+- Data Logging & Monitoring Pipelines
+
+---
 
 ---
 
